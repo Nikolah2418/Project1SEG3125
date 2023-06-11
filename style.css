@@ -1,0 +1,179 @@
+
+.gb{
+    width: 100%;
+    z-index: 0;
+}
+
+.card-img{
+  height: 220px; 
+  width:220px;
+  object-fit: cover;
+}
+
+.container-full{
+    width: 100%;
+    height: 100%;
+}
+
+.weight-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/weight.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cardio-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/cardio.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.crossfit-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/crossfit.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.service-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/squat.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.booking-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/service.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.trainer-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/wallpaperflare.com_wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.about-page{
+    background-color: #550606;
+    background-image: url(assets/triar.png),url(assets/about.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ribbon {
+    opacity: 0.95;
+    margin-left: auto;
+    margin-right: auto;
+    width:550px;
+    height: 60px;
+    background: #550606;
+    clip-path: polygon(0% 0%, 100% 0%, calc(100% - 40px) 50%, 100% 100%, 0% 100%);
+  }
+
+.mainback{
+    background-image: url(assets/triar.png),url(assets/gym.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.container-center{
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.bold-text {
+    font-weight: bold;
+}
+
+.white-text {
+    color: white;
+}
+
+.slogan {
+    color: white;
+    background-color: #550606;
+    padding: 30px;
+    margin-top: 250px;
+    opacity: 0.85;
+}
+
+.about-container{
+    width: 617px;
+    height: 150px;
+    left: 553px;
+    top: 645px;
+}
+
+.about-card-header{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 55px;
+text-align: center;
+}
+
+.about-card-text {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height:35px;
+text-align: center;
+}
+
+.about-card {
+    background: #8E0007;
+    opacity: 0.98;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+}
+
+.info-header-card{
+    background: #550606;
+    opacity: 0.9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+}
+.booking-header{
+    background: #8E0007;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 52px;
+    padding: 5px;
+}
+
+.red-card{
+    background: #8E0007;
+    opacity: 0.92;
+}
+
+.red-card-trainers{
+    background: #8E0007;
+    opacity: 0.98;
+}
+
+.book-a-session {
+    background: #8E0007;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px;
+    margin-bottom: 80px;
+}
+
+.learn-more {
+    background: #8E0007;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px;
+    margin-bottom: 80px;
+}
